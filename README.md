@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FutileGameDev
 - 👀 I’m interested in ... Unity, C#
-- 🌱 I’m currently learning ... true
+- 🌱 private bool ImCurrentlyLearning = true;
 - 💞️ I’m looking to collaborate on ... mobile games?
 
 <!---
